@@ -1,4 +1,4 @@
-* Jupyter python notebooks for teaching undergraduate physical chemistry thermodynamics: Calculating molar entropy
+*Jupyter python notebooks for teaching undergraduate physical chemistry thermodynamics: Calculating molar entropy*
 
 In guided-inquiry activities, students use python to fit experimental data and use thermodynamic principles to calculate molar enthalpy.
 
