@@ -1,5 +1,25 @@
-Instructor versions of Jupyter python notebooks for undergraduate physical chemistry courses. Notebooks with "-key.ipynb" in the filename provide implementation notes, learning objectives and possible answers for critical thinking questions, exercises, and problems.
+1-entropy-single-phase/calculating-entropy: Calculate the change in molar entropy of Ag(s) from 0K ⟶ 300K using temperature-dependent heat capacity data. Users import experimental data from a CSV file, fit the data to a polynomial, assess the fit using RSS, integrate the fit function, and use the Debye approximation to obtain ΔS.
 
-1-entropy-single-phase/calculating-entropy: Calculate the change in molar entropy of Ag(s) from 0K ⟶ 300K using temperature-dependent heat capacity data. Students import experimental data from a CSV file, fit the data to a polynomial, assess the fit using RSS, integrate the fit function, and use the Debye approximation to obtain ΔS.
+2-entropy-multiphase/calculating-multiphase-entropy: Building on the skills developed in part 1, users calculate the change in molar entropy of nitromethane from 0K → 400K through several phase changes.
 
-2-entropy-multiphase/calculating-multiphase-entropy: Building on the skills developed in part 1, students calculate the change in molar entropy of nitromethane from 0K → 400K through several phase changes.
+* Scientific_objectives
+  - "Apply the first and second laws of thermodynamics for calculating the entropy of a substance"
+  - "Relate heat capacity to entropy mathematically"
+  - "Predict the effect of structure on the entropy of a substance"
+ 
+* Cyberinfrastructure_objectives
+  - "Write and execute Python code in Jupyter notebooks"
+  - "Import and visualize structured data using numpy and matplotlib"
+  - "Fit experimental values to a polynomial"
+  - "Integrate functions numerically with python"
+  - "Assess the quality of fit using statistical measures RSS or SSE"
+  - "(optional) Use computational chemistry to obtain entropy"
+
+* Scientific prerequisites
+  - "Students should recognize differential relationships for Cp and S from the first and second laws of thermodynamics"
+  - "Students should recognize that heat capacity is temperature dependent"
+
+* programming_prerequisites
+  - "Basic plotting using matplotlib"
+  - "Creating and manipulating numpy arrays"
+  - "Calling library functions"
