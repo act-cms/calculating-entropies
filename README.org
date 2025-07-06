@@ -1,6 +1,10 @@
-1-entropy-single-phase/calculating-entropy: Calculate the change in molar entropy of Ag(s) from 0K ⟶ 300K using temperature-dependent heat capacity data. Users import experimental data from a CSV file, fit the data to a polynomial, assess the fit using RSS, integrate the fit function, and use the Debye approximation to obtain ΔS.
+* Jupyter python notebooks for teaching undergraduate physical chemistry thermodynamics: Calculating molar entropy
 
-2-entropy-multiphase/calculating-multiphase-entropy: Building on the skills developed in part 1, users calculate the change in molar entropy of nitromethane from 0K → 400K through several phase changes.
+In guided-inquiry activities, students use python to fit experimental data and use thermodynamic principles to calculate molar enthalpy.
+
+01-entropy-single-phase/calculating-entropy: Calculate the change in molar entropy of Ag(s) from 0K ⟶ 300K using temperature-dependent heat capacity data. Users import experimental data from a CSV file, fit the data to a polynomial, assess the fit using RSS, integrate the fit function, and use the Debye approximation to obtain ΔS.
+
+02-entropy-multiphase/calculating-multiphase-entropy: Building on the skills developed in part 1, users calculate the change in molar entropy of nitromethane from 0K → 400K through several phase changes.
 
 * Scientific_objectives
   - "Apply the first and second laws of thermodynamics for calculating the entropy of a substance"
@@ -19,7 +23,7 @@
   - "Students should recognize differential relationships for Cp and S from the first and second laws of thermodynamics"
   - "Students should recognize that heat capacity is temperature dependent"
 
-* programming_prerequisites
+* Programming_prerequisites
   - "Basic plotting using matplotlib"
   - "Creating and manipulating numpy arrays"
   - "Calling library functions"
