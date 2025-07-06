@@ -1,4 +1,4 @@
-*Jupyter python notebooks for teaching undergraduate physical chemistry thermodynamics: Calculating molar entropy*
+* Jupyter python notebooks for teaching undergraduate physical chemistry thermodynamics: Calculating molar entropy
 
 In guided-inquiry activities, students use python to fit experimental data and use thermodynamic principles to calculate molar enthalpy.
 
@@ -7,23 +7,23 @@ In guided-inquiry activities, students use python to fit experimental data and u
 02-entropy-multiphase/calculating-multiphase-entropy: Building on the skills developed in part 1, users calculate the change in molar entropy of nitromethane from 0K → 400K through several phase changes.
 
 * Scientific_objectives
-  - "Apply the first and second laws of thermodynamics for calculating the entropy of a substance"
-  - "Relate heat capacity to entropy mathematically"
-  - "Predict the effect of structure on the entropy of a substance"
+  - Apply the first and second laws of thermodynamics for calculating the entropy of a substance
+  - Relate heat capacity to entropy mathematically
+  - Predict the effect of structure on the entropy of a substance
  
 * Cyberinfrastructure_objectives
-  - "Write and execute Python code in Jupyter notebooks"
-  - "Import and visualize structured data using numpy and matplotlib"
-  - "Fit experimental values to a polynomial"
-  - "Integrate functions numerically with python"
-  - "Assess the quality of fit using statistical measures RSS or SSE"
-  - "(optional) Use computational chemistry to obtain entropy"
+  - Write and execute Python code in Jupyter notebooks
+  - Import and visualize structured data using numpy and matplotlib
+  - Fit experimental values to a polynomial
+  - Integrate functions numerically with python
+  - Assess the quality of fit using statistical measures RSS or SSE
+  - (optional) Use computational chemistry to obtain entropy
 
 * Scientific prerequisites
-  - "Students should recognize differential relationships for Cp and S from the first and second laws of thermodynamics"
-  - "Students should recognize that heat capacity is temperature dependent"
+  - Students should recognize differential relationships for Cp and S from the first and second laws of thermodynamics
+  - Students should recognize that heat capacity is temperature dependent
 
 * Programming_prerequisites
-  - "Basic plotting using matplotlib"
-  - "Creating and manipulating numpy arrays"
-  - "Calling library functions"
+  - Basic plotting using matplotlib
+  - Creating and manipulating numpy arrays
+  - Calling library functions
