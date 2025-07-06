@@ -1,0 +1,5 @@
+Instructor versions of Jupyter python notebooks for undergraduate physical chemistry courses. Notebooks with "-key.ipynb" in the filename provide implementation notes, learning objectives and possible answers for critical thinking questions, exercises, and problems.
+
+1-entropy-single-phase/calculating-entropy: Calculate the change in molar entropy of Ag(s) from 0K ⟶ 300K using temperature-dependent heat capacity data. Students import experimental data from a CSV file, fit the data to a polynomial, assess the fit using RSS, integrate the fit function, and use the Debye approximation to obtain ΔS.
+
+2-entropy-multiphase/calculating-multiphase-entropy: Building on the skills developed in part 1, students calculate the change in molar entropy of nitromethane from 0K → 400K through several phase changes.
